@@ -2,7 +2,9 @@
 
 Assignment - 1 : Training a feed forward neuaral network from scratch using numpy. The training dataset is fashion MNIST. 
 
-The code takes in : n_inputs  : number of neurons in the input layer
+The code takes in : 
+
+                    n_inputs  : number of neurons in the input layer
 
                     n_hidden  : size of the hidden layer with the number of neurons in each layer
                     
