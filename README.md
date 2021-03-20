@@ -16,7 +16,7 @@ The gradients can be calulated using different algorithms :
 6. nadam
 
 Hyperparameter tune can be done using wandb - Hyperparameter_sweep.pynb
-feedforward and backwordpropagation and training model - feedforward.pynb 
+
 
 
 
